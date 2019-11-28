@@ -1,0 +1,96 @@
+{
+    "response": {
+        "docs": [
+            {
+                "ancestor_UIDs": [
+                    "llgc-id:4122505",
+                    "llgc-id:4122756",
+                    "llgc-id:4122757"
+                ],
+                "ancestor_titles": [
+                    "Llanelly Star",
+                    "1914-01-17",
+                    "[1]"
+                ],
+                "article_word_count": 27,
+                "category": "News",
+                "collection_title": "Llanelly Star",
+                "date": "1914-01-17T00:00:00Z",
+                "date_day": 17,
+                "date_decade": 1910,
+                "date_month": 1,
+                "date_weekday": 6,
+                "date_year": 1914,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "",
+                "full_text": "I A CHEMISTRY DIPLOMA. Mr. Tom Williams, M.Sc., has just been awarded the Diploma in Chemistry and Engipeering, in the first division, at tJie Technische Hochschule, Karlsruke.",
+                "id": "4122756-modsarticle24-4122757-1",
+                "indexer_version": "348ba644f19dc32320a56c6bd5c6e27a",
+                "ingest_code": "ART24",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:4122757",
+                "phasecode": "apnjt003",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, West."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2015-06-17T14:22:49.361Z",
+                "title_en": "IA CHEMISTRY DIPLOMA. |",
+                "title_en_az": "IA CHEMISTRY DIPLOMA. |",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            },
+            {
+                "ancestor_UIDs": [
+                    "llgc-id:3850749",
+                    "llgc-id:3852182",
+                    "llgc-id:3852185"
+                ],
+                "ancestor_titles": [
+                    "The Rhyl Advertiser",
+                    "1883-07-21",
+                    "[3]"
+                ],
+                "article_word_count": 58,
+                "category": "News",
+                "collection_title": "The Rhyl Advertiser",
+                "date": "1883-07-21T00:00:00Z",
+                "date_day": 21,
+                "date_decade": 1880,
+                "date_month": 7,
+                "date_weekday": 6,
+                "date_year": 1883,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "",
+                "full_text": "L LANFAI1 < F The result of the recent Government Scienec Examination in organic and inorganic chemistry was made known on the 19tb instant. The pupiis cf Mi. Robinson. Bryn-y-Mor School, were successful in both subjects. In organic chemistry, W D Brooks, and in inorganic chemistry F. Marston, R Statham, G. Senior, and W. G. Roberts were successful.",
+                "id": "3852182-modsarticle19-3852185-1",
+                "indexer_version": "348ba644f19dc32320a56c6bd5c6e27a",
+                "ingest_code": "ART20",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:3852185",
+                "phasecode": "apnbc002",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, North."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2015-06-16T20:31:59.321Z",
+                "title_en": "___----------L LANFAI1 < F",
+                "title_en_az": "___----------L LANFAI1 < F",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            }
+			],
+		"numFound": 17380,
+        "start": 0
+		}
+	}

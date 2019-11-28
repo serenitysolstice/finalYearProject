@@ -1,0 +1,140 @@
+{
+    "response": {
+        "docs": [
+            {
+                "ancestor_UIDs": [
+                    "llgc-id:3614436",
+                    "llgc-id:3621410",
+                    "llgc-id:3621422"
+                ],
+                "ancestor_titles": [
+                    "The Weekly News and Visitors' Chronicle for Colwyn Bay Colwyn Llandrillo Conway Deganwy and Neighbourhood",
+                    "1907-10-11 North Wales Edition",
+                    "12"
+                ],
+                "article_word_count": 113,
+                "category": "News",
+                "collection_title": "The Weekly News and Visitors' Chronicle for Colwyn Bay Colwyn Llandrillo Conway Deganwy and Neighbourhood",
+                "date": "1907-10-11T00:00:00Z",
+                "date_day": 11,
+                "date_decade": 1900,
+                "date_month": 10,
+                "date_weekday": 5,
+                "date_year": 1907,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "North Wales Edition",
+                "full_text": "SENIOR CERTIFICATES. A. E. Arnold Composition, Literature, History, Mathematics (Honours stage), Latin, French with conversational power, &c. Claud Davies: Composition, English Language, Literature, History with distinction, Latin, Arith- metic, Mathematics. Myfanwy Griffiths: Composition, English Language, History, Mathematics, Latin with j distinction, French with conversational power, 1 Welsh. G. C. Lines Composition, English Language, Literature, History, Arithmetic, Mathematics with distinction, French with conversational power, Latin with distinction. Awena Roberts Composition, English Language, Literature, History, Mathematics, Latin, French with conversational power. Ceridwen Roberts: Composition, Literature, History, Arithmetic, Mathematics, Latin, Welsh, French with conversational power. Ethel Smith Composition, English Language, Literature, History, Mathematics, Latin, French with conversational power. Elizabeth Williams: Composition, Literature; History, Arithmetic, Mathematics, Latin.",
+                "id": "3621410-modsarticle89-3621422-1",
+                "indexer_version": "348ba644f19dc32320a56c6bd5c6e27a",
+                "ingest_code": "ART99",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:3621422",
+                "phasecode": "apnjo010",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, North."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2015-06-17T13:24:18.961Z",
+                "title_en": "SENIOR CERTIFICATES.",
+                "title_en_az": "SENIOR CERTIFICATES.",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            },
+            {
+                "ancestor_UIDs": [
+                    "llgc-id:3836771",
+                    "llgc-id:3837447",
+                    "llgc-id:3837452"
+                ],
+                "ancestor_titles": [
+                    "Baner ac Amserau Cymru",
+                    "1901-07-03",
+                    "5"
+                ],
+                "article_word_count": 14,
+                "category": "News",
+                "collection_title": "Baner ac Amserau Cymru",
+                "date": "1901-07-03T00:00:00Z",
+                "date_day": 3,
+                "date_decade": 1900,
+                "date_month": 7,
+                "date_weekday": 3,
+                "date_year": 1901,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "",
+                "full_text": "4 PURE AND APPLIED MATHEMATICS Dosbarth II\u2014Andrew Stephenson, Caerdydd; a. William Ellis Williams, Bingor.",
+                "id": "3837447-modsarticle36-3837452-1",
+                "indexer_version": "23124d8597b0a7077504417d98b2ea2a",
+                "ingest_code": "ART36",
+                "lang": "wel",
+                "order": 1,
+                "parent_UID": "llgc-id:3837452",
+                "phasecode": "apnin001",
+                "provider": "WlAbNL",
+                "region": [
+                    "Liverpool (England)",
+                    "Wales, North.",
+                    "Wales, South."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2015-08-28T09:25:20.89Z",
+                "title_en": "4 PURE AND APPLIED MATHEMATICS '",
+                "title_en_az": "4 PURE AND APPLIED MATHEMATICS '",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys (delweddau ar gyfer 1857-1900 gyda diolch i'r Llyfrgell Brydeinig).",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown (images for 1857-1900 with thanks to the British Library)."
+            },
+            {
+                "ancestor_UIDs": [
+                    "llgc-id:3030599",
+                    "llgc-id:4608191",
+                    "llgc-id:4608196"
+                ],
+                "ancestor_titles": [
+                    "Barry Dock News",
+                    "1902-07-11",
+                    "[5]"
+                ],
+                "article_word_count": 14,
+                "category": "News",
+                "collection_title": "Barry Dock News",
+                "date": "1902-07-11T00:00:00Z",
+                "date_day": 11,
+                "date_decade": 1900,
+                "date_month": 7,
+                "date_weekday": 5,
+                "date_year": 1902,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "",
+                "full_text": "MATHEMATICS. Oswald J. Morgan, 1st class, stage 2 David Jones, 2nd class, stage 3.",
+                "id": "4608191-modsarticle43-4608196-1",
+                "indexer_version": "348ba644f19dc32320a56c6bd5c6e27a",
+                "ingest_code": "ART43",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:4608196",
+                "phasecode": "apnab013",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, South."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2015-06-15T09:41:52.196Z",
+                "title_en": "MATHEMATICS.",
+                "title_en_az": "MATHEMATICS.",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            }
+			]
+		}
+	}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html lang="en-UK">
+<head>
+<title>A Collection of Welsh Scientists</title>
+
+<style type="text/css">
+.margin{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+p{
+	overflow: auto;
+	text-align: justify;
+	margin-right: 10px
+}
+</style>
+</head>
+
+<body style="background-color:Gainsboro;">
+
+<font face="Book antiqua">
+	<h1 style="text-align:center;">A Collection of Welsh Scientists</h1>
+	<hr>
+	<div class="margin">
+</font>
+	<img src="..\static\projectPlaceholder.jpg" alt="Aber on a good day"  style="width:400px; float:right padding-left:50px" align="right">
+	<font face="Helvetica">
+	<div class="button_style">
+		<h3>Search</h3>
+		{% from "_formhelpers.html" import render_field %}
+		<form method=post>
+		<dl>
+		{{ render_field(form.select) }}
+		<p>
+		{{ render_field(form.search) }}
+		</dl>
+		<p><input type=submit value=Go>
+	</div>
+	<p>The aim of this project is to create a collection of scientists that lived and worked
+	in Wales over a century long period. This collection has been built from the work
+	 already done by the National Library of Wales to collect and digitize newspapers that 
+	 were published between 1804 and 1919.
+	 <br><br>
+	 This collection may be both incomplete and incorrect in places -
+	 due to the nature of automated information extraction, the results you see here will not be perfect. 
+	 However, this is a working project, and attempts will continue to make this collection 
+	 a worthy tribute to a rich history of science in Wales.</p>
+	<img src="..\static\wales_snowdon.jpg" alt="Aber on a good day" style="width:300px";>
+</font>
+</div>
+</body>

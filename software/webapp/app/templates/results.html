@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html lang="en-UK">
+
+<head>
+	<title>Results</title>
+</head>
+<body style="background-color:Gainsboro;">
+	<h1 style="text-align:center;">A Collection of Welsh Scientists</h1>
+	<hr>
+	{% if error %}
+	<p><strong>Error:</strong> {{ error }}
+	{% endif %}
+	<a href="{{ url_for('linkClicked') }}">
+	{{ table }}
+	</a>
+</body>
+</html>

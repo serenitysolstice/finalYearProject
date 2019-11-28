@@ -1,0 +1,107 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=1.0in]{geometry}
+\usepackage{float}
+\usepackage{arydshln}
+\usepackage{changepage}
+
+\title{Summary of Testing}
+\author{Taylor Brown: tab23}
+\date{\today}
+
+\begin{document}
+\maketitle
+\section{Introduction}
+This document summarises the various tests that were performed on the system built in the project \textit{A collection of scientists in Wales between 1804 and 1919 built using Natural Language Processing techniques}. The system is comprised of three different parts, which make up the three different sections in this report. 
+
+This system looks at the building of a collection of scientists from newspaper articles published approximately 100 years ago. Articles are downloaded and saved as local files. The article text is analysed and scientists are extracted. Scientists, articles and the different actions that scientists did, the reason they are in the newspaper, are all stored in a database. 
+
+The user interface of this system is a web application, built with flask, where a user can search for a name, title of an article or field of study. These searches query the database, and return a table filled with the results. Any search which returns an article ID returns the ID as a link to the article on the National Library of Wales newspaper archive.
+
+\subsection{Testing Scope}
+Covered here are the unit tests for the information extraction software, manual inspection of the information in the database, and webtesting for every aspect of the web app. 
+
+\subsection{Iterations}
+The project was developed in a series of sprints, each one improving the system slightly in a different way. Because of this, testing was done regularly and in small batches. 
+
+\subsubsection{Information Extraction}
+Unit tests were written for this section whenever a new method was produced that required tests. These tests were ran regularly, and used to determine that a method functioned in the way it was thought to function. They were also updated whenever a method was changed in any way - this includes slight changes to structure as well as complete rewrites. After a change was made, a method was not left alone until it passed its unit test. 
+
+\subsubsection{Database}
+The database was manually inspected whenever more data was added to it. These inspections were made to ensure that the data populating the database was of the form and format expected, and checked that newspaper and article titles were of an appropriate length for the constraints set. Given that new data was added in batches regularly, this inspection occurred often.
+
+\subsubsection{Web App}
+Though no unit or system tests were written for this part of the project, the web app was tested manually for functionality - in particular, to ensure that any changes made to the application did not have an adverse affect on reading from the database and displaying the results, since that is the key role of the app. 
+
+\section{Information Extraction Testing}
+Unit tests were written for the below list of tasks that this software was designed to complete. These tests \textbf{must} be passed before further development can occur. When changing one of these methods in any way, the test must be changed accordingly.
+\begin{itemize}
+	\item Documents break down into articles
+	\item Articles break down into text
+	\item The spelling of words is corrected
+	\item Words are tagged with correct part of speech
+	\item Entities are identified
+	\item Names are recognized as names
+	\item People are created
+\end{itemize}
+The integration tests for this system look at how various parts of the software work together. The system is broken down into a collection of methods that work together to achieve a defining point in the software. These points are:
+\begin{itemize}
+	\item Text collection: tests the findText(), word\_tokenize() and correctSpelling() methods together
+	\item People: tests the tag(), entities() and createPeople() methods. 
+	\item Duplicitiy: tests that mentions of the same person in the same article are removed like they should be. Tests that articles that appear in more than one field of study are removed.
+	\item Database: tests that the database is populated with results correctly.
+\end{itemize}
+The difference between these tests and the unit tests are that, here, it is already assumed that each method works as expected: integration testing would not have commenced unless the methods passed unit testing. Each test is written as a black box: there is an input of some kind, the methods are run sequentially without external interferance, and the output is compared to expected values. 
+
+The text collection test uses the \textit{correctSpelling()} method, which causes the test to fail approximately 50\% of the time. This is a known issue: if a single test fails with the error \textit{AssertionError: Lists differ: ['POR[126 chars] 'felix', 'Board', 'School', ',', 'has', 'won'[931 chars] '.'] != ['POR[126 chars] 'felon', 'Board', 'School', ',', 'has', 'won'[931 chars] '.']}, it is to be ignored. 
+
+\section{Database}
+The database was filled with small, sample sets of data initially. These sets were extracts taken from the json files already gathered to test the information extraction, and allowed for any obvious bugs in the population code that could be spotted, fixed and reran without waiting for hours at a time. In this way, it was discovered that the article title field was too small to allow for all potential titles. This field was doubled in size twice before this particular error stopped appearing. 
+
+There is only so many issues that will be made known using small sets of data, and one such problem that remained undetected throughout the testing of the database was the occasions where the code would attempt to store an article or person twice. After some inspection of the specific articles causing these problems, the fault was determined to lie with the way articles are written: multiple mentions of the same person in the same article caused them to be saved as the same scientist, and an article appearing in multiple fields of study meant they were saved in both article collection files. This wouldn't have been a problem if the primary key for the articles table was generated, but this field used the article id number, given to the articles by the National Library archive, so this caused another bug. Because both bugs were exceedingly rare, there was a very small change that the test data would trigger them; unfortunately, they did not, and the whole program had to be run again from the start. 
+
+\section{Web App Testing}
+Various different aspects of the web app require regular testing to ensure that they work consistantly.
+\begin{itemize}
+	\item The different kinds of search that can be made
+	\item The handling of unexpected search strings
+	\item The return of information
+	\item The format of returned information
+	\item Navigation around the web app
+\end{itemize}
+As seen in \ref{table:search}, the different searches were tested in a variety of ways. Because each search is handled in the same way within the flask app, it would be fair to assume that each search within a selected field that is deemed `incorrect' would be handled the same way: Every potential search has been tested to ensure that this is the case. 
+\begin{itemize}
+	\item The example name is \textit{Robert Smith}
+	\item The example field is \textit{Chemistry}
+	\item The example title is \textit{Death of Professor Magnus}
+\end{itemize}
+\begin{table}[H]
+\caption{Testing the searches}
+\label{table:search}
+\begin{adjustwidth}{-2.4cm}{}
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+Test ID & Section &  Test & Expected Result &Outcome\\ \hline
+T-S1:1 & Name& Search for Full Name&	 \parbox[t]{5cm}{Results displayed that\par exactly  match the\par search term: \textit{Robert Smith}}& \parbox[t]{5cm}{Seven results displayed\par for a Mr Robert Smith, his\par field and the articles the name appears in.}\\ \hdashline
+T-S1:2 & 	& Search for partial name& \parbox[t]{5cm}{Results displayed that match the search term \textit{Smi}}& \parbox[t]{5cm}{Sixteen results displayed for various ``Smiths'''. \par The same results as T-S1:1 appeared as well.}\\ \hdashline
+T-S1:3 & 	& Search for field of study & \parbox[t]{5cm}{Redirect to home page}&\parbox[t]{5cm}{Redirect back to home page}\\ \hdashline
+T-S1:4 & 	& Search for article title & \parbox[t]{5cm}{Redirect to home page} &\parbox[t]{5cm}{Redirect back to home page}\\ \hline
+	T-S2:1 & Field& Search for full field 	& \parbox[t]{5cm}{Results displayed for every \par entry with that field}& \parbox[t]{5cm}{List of people displayed\par with a connection to\par chemistry}\\ \hdashline
+T-S2:2 & 	& Search for incomplete field & \parbox[t]{5cm}{Results displayed that match the field that should have been typed (Test uses \textit{chem})} &\parbox[t]{5cm}{Results displayed that\par matches the full search\par meant.}\\ \hdashline
+T-S2:3 & 	& Search for unavailable field & \parbox[t]{5cm}{Redirect to \par home page} & Redirect to home page\\ \hdashline
+T-S2:4 & 	& Search for name & \parbox[t]{5cm}{Redirect \par to home page}& Redirect to home page\\ \hdashline
+T-S2:5 & 	& Search for article title & \parbox[t]{5cm}{Redirect to \par home page}& Redirect to home page\\ \hline
+T-S3:1 & Article Title	& Search for full article title & \parbox[t]{5cm}{Results displayed for all articles with that title}& \parbox[t]{5cm}{Three articles returned\par that match the searched\par title}\\ \hdashline
+T-S3:2 & 	& Search for partial title & \parbox[t]{5cm}{Results displayed for full titles that \par match the search term \textit{Professor Mag}}& \parbox[t]{5cm}{The same three\par articles returned for\par the partial match as for \par T-S3:1}\\ \hdashline
+T-S3:3 & 	& Search for name & \parbox[t]{5cm}{Display list of articles with name in the title, or redirect to home page if none match.}& Redirect to home page\\ \hdashline
+T-S3:4 & 	& Search for field of study & \parbox[t]{5cm}{Display list of articles with the field of study in title, or redirect to home page if none match.}& \parbox[t]{5cm}{Displays list of \par articles with chemistry\par in title}\\ \hline
+\end{tabular}
+\end{adjustwidth}
+\end{table}
+%write here about the different aspects of the program that needed to be tested, where some of the tests failed, and how they ultimately contributed to the building of the project. A table here would look nice, i think.
+%things that need testing are the different options for the search: name, field and article title.
+T-S3:3 and T-S3:4 suggest that some sort of system designed to filter results may be required should the amount of data made accessable by this system grow much more: article titles can have any word combination in them, so finding something specific in a large result set could be difficult. Though all of these tests have passed, it was concluded that some method of informing the user that their search could not find any results might be useful, to make the transition between submitting the search and redirecting back to the home page less jarring. A dialogue box might be the most useful way to do this.
+
+Another test that is run manually is activating several of the hyper links after search results are displayed, ensuring that they link back to the correct article. As of writing, this feature does not work. Why this does not work is understood.
+
+
+\end{document}

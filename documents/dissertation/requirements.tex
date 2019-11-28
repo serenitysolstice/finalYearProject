@@ -1,0 +1,48 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=1.0in]{geometry}
+\title{Requirements}
+\author{tab23}
+\date{2019-02-14}
+
+\begin{document}
+\maketitle
+
+%requirements from point of view of a user
+%can search for the name of a scientist, or a branch of science, or a location, or a date, or any combination of the above, and find relevent results ordered (by default) by the date of publication of the newspaper. i
+%at the bare minimum, search for the name of a scientist, or branch of science, and find relevent results
+%Be able to read about the scientist on the website, but also provide links back to the nlw archive and other sources for information about a specific person. 
+%information included should be the dates they were alive, different reasons they were in the newspapers, any key discoveries they may have made, interesting bits about their life (both good and bad)
+
+\section{From the User}
+I would like to use this software to be able to look for scientists who lived in Wales, and who made some amazing contributions to science. Specifically, I would like to be able to find relevent results if I were to search for several different keywords, like a name, field of study, location or a date, or any combination of those. I would also like to be able to sort the results as best I see fit, whether that's alphabetical based on title, or date of publication, or how relevent they are to my keywords. Finally, this software should allow me to read a summary of a specific scientist, as well as provide other locations where I could find out more information if I wanted to. 
+
+\section{Functional Requirements}
+	\subsection{User interface}
+		The user interface in this system is a webpage that contains a simple search bar and, once a query has been submitted, displays extracts of information pertinent to the query. The default ordering for this information will be date of birth of a person, or the date of which an event occurred.
+		\begin{enumerate}
+			\item Search for a specific keyword, and return all instances of that keyword
+			\item Search for several keywords, and return instances where those keywords overlap
+			\item Allow the results to be reordered to best suit the users' needs. 
+			\item Summarize the information about a specific person in cases where a specific name is returned or searched for
+			\item Provide sources for where the information came from originally, specific to the news article that it was discovered from
+		\end{enumerate}
+	\subsection{Data storage}
+		All the data gathered will be stored in a database.
+		\begin{enumerate}
+			\item Store a list of names, dates, and the fields they worked in
+			\item Return this information when queried
+			\item Also store events in the person's life, and dates of when they occurred - birth, marriages, children and death, if these can be found.
+			\item Format general information about a person so that it is returned only when a request for that person  specifically is made in some way. 
+			\item Store as many references to where this information has come from as possible, particularly if it did not come from the National Library of Wales newspaper archives
+		\end{enumerate}
+	\subsection{Information Extraction}
+		This part of the system will search the National Library of Wales newspaper archives, categorize the data found and decide what is relevent enough to store and what is not. 
+		\begin{enumerate}
+			\item Search for names, dates and specific keywords as according to a seperate text file
+			\item Once names are found, search for other articles bearing the same name, and search that text as well
+			\item Store information found in the data storage system
+			\item Correct any egregious spelling or scanning mistakes
+		\end{enumerate}
+
+
+\end{document}

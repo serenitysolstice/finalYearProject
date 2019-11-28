@@ -1,0 +1,89 @@
+\documentclass[draft]{article}
+\usepackage{float}
+\usepackage{tabularx}
+
+\title{Database Design}
+\author{tab23}
+\date{\today}
+
+\begin{document}
+\section{Normalization}
+\subsection{First Normal Form}
+\begin{table}[H]
+\noindent\makebox[\textwidth]{
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+Name & Field & Action & Date & Location & News.Title & Art.Title & Art.Date & Contents & Art.ID \\ \hline
+     &       &        &      &          &            &           &          &          &      \\ \hline
+\end{tabular}
+}
+\end{table}
+
+\subsection{Second Normal Form}
+
+\begin{table}[H]
+\begin{tabular}{|l|l|l|}
+\hline
+Scientist ID & Name & Field \\ \hline
+             &     	&  \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\begin{tabular}{|l|l|l|l|}
+\hline
+Scientist ID & Action & Date & Location \\ \hline
+	& 		 & 		& \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\begin{tabular}{|l|l|l|l|}
+\hline
+Newspaper Title & Article Title & Article Date & Article ID \\ \hline
+                &               &              &            \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\begin{tabular}{|l|l|}
+\hline
+Scientist ID & Article ID \\ \hline
+             &            \\ \hline
+\end{tabular}
+\end{table}
+
+\subsection{Third Normal Form}
+
+\begin{table}[H]
+\begin{tabular}{|l|l|l|l|}
+\hline
+Scientist ID & Name & Field  \\ \hline
+	& 		& 	 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\begin{tabular}{|l|l|l|l|}
+\hline
+Action ID & Action & Date & Location \\ \hline
+	& 		& 		& \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\begin{tabular}{|l|l|l|l|}
+\hline
+Newspaper Title & Article Title & Article Date & Article ID \\ \hline
+                &               &              &            \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\begin{tabular}{|l|l|l|}
+\hline
+Scientist ID & Article ID & Action ID \\ \hline
+             &          &  \\ \hline
+\end{tabular}
+\end{table}
+\end{document}

@@ -1,0 +1,184 @@
+{
+    "response": {
+        "docs": [
+            {
+                "ancestor_UIDs": [
+                    "llgc-id:3598159",
+                    "llgc-id:3602103",
+                    "llgc-id:3602109"
+                ],
+                "ancestor_titles": [
+                    "Carnarvon and Denbigh Herald and North and South Wales Independent",
+                    "1894-08-10",
+                    "6"
+                ],
+                "article_word_count": 26,
+                "category": "News",
+                "collection_title": "Carnarvon and Denbigh Herald and North and South Wales Independent",
+                "date": "1894-08-10T00:00:00Z",
+                "date_day": 10,
+                "date_decade": 1890,
+                "date_month": 8,
+                "date_weekday": 5,
+                "date_year": 1894,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "",
+                "full_text": "PORTMADOO. ASTRONOMY AND NAVIGATION.\u2014 Mr Hugh Hughes, headmaster of the Pentre'r- felin Board School, has won certificates of competency in advanced nautical astronomy and advanced navigation.",
+                "id": "3602103-modsarticle113-3602109-1",
+                "indexer_version": "348ba644f19dc32320a56c6bd5c6e27a",
+                "ingest_code": "ART114",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:3602109",
+                "phasecode": "apnbh010",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, North."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2015-06-16T21:24:55.692Z",
+                "title_en": "PORTMADOO.",
+                "title_en_az": "PORTMADOO.",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            },
+            {
+                "ancestor_UIDs": [
+                    "llgc-id:3609516",
+                    "llgc-id:3768005",
+                    "llgc-id:3768009"
+                ],
+                "ancestor_titles": [
+                    "Denbighshire Free Press",
+                    "1889-01-12",
+                    "4"
+                ],
+                "article_word_count": 25,
+                "category": "News",
+                "collection_title": "Denbighshire Free Press",
+                "date": "1889-01-12T00:00:00Z",
+                "date_day": 12,
+                "date_decade": 1880,
+                "date_month": 1,
+                "date_weekday": 6,
+                "date_year": 1889,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "",
+                "full_text": "DENBIGH AND DISTRICT. As.ramo). LitcrtriiBi.\u2014Professor J will restima W 104ang oo Astronomy, ot tbeCoouty 8^ this crafte (Rrfiay), at 8 Caloek. To liitnrn jy-, UsisplltMll^",
+                "id": "3768005-modsarticle31-3768009-1",
+                "indexer_version": "348ba644f19dc32320a56c6bd5c6e27a",
+                "ingest_code": "ART31",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:3768009",
+                "phasecode": "apnbr006",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, North."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2015-06-17T01:13:42.316Z",
+                "title_en": "DENBIGH AND DISTRICT.  -",
+                "title_en_az": "DENBIGH AND DISTRICT.  -",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            },
+            {
+                "ancestor_UIDs": [
+                    "llgc-id:3830741",
+                    "llgc-id:3879839",
+                    "llgc-id:3879849"
+                ],
+                "ancestor_titles": [
+                    "The Welsh Coast Pioneer and Review for North Cambria",
+                    "1902-10-10",
+                    "10"
+                ],
+                "article_word_count": 27,
+                "category": "News",
+                "collection_title": "The Welsh Coast Pioneer and Review for North Cambria",
+                "date": "1902-10-10T00:00:00Z",
+                "date_day": 10,
+                "date_decade": 1900,
+                "date_month": 10,
+                "date_weekday": 5,
+                "date_year": 1902,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "",
+                "full_text": "Llysfaen. ah- tbe' A LECTURE.\u2014In connection wimtarted Mutual Improvement Society recently s de- in Llysfaen, Mr H. Brython Hughes y liver a lecture on \"Astronomy,\" orL evening.",
+                "id": "3879839-modsarticle85-3879849-1",
+                "indexer_version": "348ba644f19dc32320a56c6bd5c6e27a",
+                "ingest_code": "ART85",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:3879849",
+                "phasecode": "apnjz002",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, North."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2015-06-17T14:49:44.099Z",
+                "title_en": "Llysfaen.",
+                "title_en_az": "Llysfaen.",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            },
+            {
+                "_version_": 1619300760095293440,
+                "ancestor_UIDs": [
+                    "llgc-id:3143635",
+                    "llgc-id:3475101",
+                    "llgc-id:3475105"
+                ],
+                "ancestor_titles": [
+                    "Evening Express",
+                    "1901-01-10 Special Edition",
+                    "[4]"
+                ],
+                "article_word_count": 26,
+                "category": "News",
+                "collection_title": "Evening Express",
+                "date": "1901-01-10T00:00:00Z",
+                "date_day": 10,
+                "date_decade": 1900,
+                "date_month": 1,
+                "date_weekday": 4,
+                "date_year": 1901,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "Special Edition",
+                "full_text": "ASTRONOMY. Archdeacon Bruce has presented the Astro- nomical Society of Wales with a valuable col- lection of astronomical works, to be housed in the Free Library.",
+                "id": "3475101-modsarticle123-3475105-1",
+                "indexer_version": "3a8e81fa46149970e377e7b479c4cdc8",
+                "ingest_code": "ART124",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:3475105",
+                "phasecode": "apnag097",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, South."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2018-12-08T16:12:25.44Z",
+                "title_en": "ASTRONOMY.",
+                "title_en_az": "ASTRONOMY.",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            }
+			]
+		}
+}
+			

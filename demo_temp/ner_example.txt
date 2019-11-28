@@ -1,0 +1,1096 @@
+(S
+  I/PRP
+  A/VBP
+  (ORGANIZATION CHEMISTRY/JJ)
+  (ORGANIZATION DIPLOMA/NNP)
+  ./.
+  (PERSON Mr./NNP Tom/NNP Williams/NNP)
+  ,/,
+  M.Sc./NNP
+  ,/,
+  has/VBZ
+  just/RB
+  been/VBN
+  awarded/VBN
+  the/DT
+  (ORGANIZATION Diploma/NNP)
+  in/IN
+  (GPE Chemistry/NNP)
+  and/CC
+  engineering/NN
+  ,/,
+  in/IN
+  the/DT
+  first/JJ
+  division/NN
+  ,/,
+  at/IN
+  tie/JJ
+  (ORGANIZATION Technische/NNP Hochschule/NNP)
+  ,/,r
+  (PERSON Karlsruke/NNP)
+  ./.)
+(S
+  (GPE LLANELLY/NNP)
+  ./.
+  (ORGANIZATION UNIVERSITY/NNP)
+  of/IN
+  LONDON.—At/NNP
+  the/DT
+  recent/JJ
+  Prel.ScL.M.B./NNP
+  ,/,
+  examination/NN
+  of/IN
+  the/DT
+  above/JJ
+  (ORGANIZATION University/NNP)
+  !/.
+  j/NN
+  ,/,
+  a/DT
+  n/NN
+  of/IN
+  (ORGANIZATION J2S3TE/NNP)
+  a/DT
+  a/DT
+  SS/NNP
+  &/CC
+  a/DT
+  gained/JJ
+  honours/NN
+  in/IN
+  chemistry/NN
+  ./.
+  gained/VBN
+  honours/NNS
+  in/IN
+  chemistry/NN
+  ./.)
+(S
+  Additional/JJ
+  Arrivals/NNS
+  this/DT
+  Morning/NNP
+  ./.
+  (PERSON Glad/NNP Tidings/NNP)
+  ,/,
+  (GPE Bruree/NNP)
+  ,/,
+  (PERSON Field/NNP Azure/NNP)
+  ,/,
+  (GPE Dover/NNP)
+  ,/,
+  (PERSON Spotted/NNP Beauty/NNP)
+  ,/,
+  and/CC
+  (GPE Chemistry/NNP)
+  ./.)
+(S
+  the/DT
+  senate/NN
+  has/VBZ
+  appointed/VBN
+  (PERSON Mr./NNP)
+  of/IN
+  of/IN
+  button/NN
+  ,/,
+  (PERSON Chester/NNP)
+  ,/,
+  lecturer/NN
+  in/IN
+  agricultural/JJ
+  chemistry/NN
+  at/IN
+  a/DT
+  lTniv.ih/NN
+  ./.)
+(S
+  I/PRP
+  (PERSON Ferndale/NNP Secondary/NNP School/NNP College/NNP)
+  of/IN
+  Preceptors/NNP
+  '/POS
+  Examination/NN
+  Results/NNP
+  ./.
+  Twenty-eight/NNP
+  pupils/NNS
+  of/IN
+  the/DT
+  above/JJ
+  school/NN
+  were/VBD
+  presented/VBN
+  for/IN
+  examination/NN
+  ,/,
+  and/CC
+  there/EX
+  were/VBD
+  no/DT
+  failures/NNS
+  ./.
+  There/EX
+  were/VBD
+  twenty-five/JJ
+  successes/NNS
+  in/IN
+  the/DT
+  Second/JJ
+  Class/NN
+  and/CC
+  three/CD
+  in/IN
+  the/DT
+  Third/NNP
+  Class/NNP
+  ./.
+  Five/CD
+  Second/JJ
+  Class/NN
+  can/MD
+  dilates/VB
+  obtained/JJ
+  honours/NNS
+  ,/,
+  and/CC
+  there/EX
+  were/VBD
+  in/IN
+  all/DT
+  twenty-one/JJ
+  distinctions/NNS
+  ./.
+  the/DT
+  success/NN
+  ful/JJ
+  pupils/NNS
+  were/VBD
+  a/DT
+  Second/JJ
+  Class.—Honours/NNP
+  a/DT
+  van/NN
+  (PERSON Jones/NNP)
+  ,/,
+  (GPE English/NNP)
+  language/NN
+  ,/,
+  (GPE English/NNP)
+  history/NN
+  ,/,
+  george/NN
+  happy/JJ
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  ,/,
+  physics/NNS
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  (GPE Phoebe/NNP)
+  state/NN
+  ,/,
+  (GPE English/JJ)
+  language/NN
+  ,/,
+  English/VB
+  his/PRP$
+  tory/NN
+  ,/,
+  geography/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  ,/,
+  (GPE French/JJ)
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  Thomas/NNP
+  of/IN
+  (GPE Davies/NNP)
+  ,/,
+  (GPE English/NNP)
+  language/NN
+  ,/,
+  (GPE English/NNP)
+  history/NN
+  ,/,
+  geography/NN
+  ,/,
+  arithmetic/JJ
+  algebra/NN
+  ,/,
+  geometry/NN
+  ,/,
+  r/NN
+  physics/NNS
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  Lizzie/NNP
+  of/IN
+  (GPE Jones/NNP)
+  ,/,
+  (GPE English/NNP)
+  land/NN
+  gage/NN
+  ,/,
+  (GPE English/NNP)
+  history/NN
+  ,/,
+  geography/NN
+  ,/,
+  aright/JJ
+  metic/NN
+  ,/,
+  algebra/NN
+  ,/,
+  geometry/NN
+  ,/,
+  (GPE French/JJ)
+  ,/,
+  physics/NNS
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  maggie/NN
+  of/IN
+  (GPE Thomas/NNP)
+  ,/,
+  (GPE English/NNP)
+  language/NN
+  ,/,
+  geometry/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geography/NN
+  ,/,
+  (GPE French/JJ)
+  ,/,
+  physics/NNS
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  ./.
+  Second/JJ
+  Class.—Passes/VBZ
+  a/DT
+  edith/NN
+  (PERSON Powell/NNP)
+  ,/,
+  (GPE English/NNP)
+  language/NN
+  ,/,
+  geography/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  else/RB
+  of/IN
+  (PERSON Williams/NNP)
+  ,/,
+  (GPE English/NNP)
+  language/NN
+  ,/,
+  (GPE English/NNP)
+  history/NN
+  ,/,
+  geography/NN
+  ,/,
+  algebra/NN
+  ,/,
+  aright/JJ
+  metic/NN
+  ,/,
+  geometry/NN
+  ,/,
+  physics/NNS
+  ,/,
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  maggie/NN
+  (PERSON Lloyd/NNP)
+  ,/,
+  (GPE English/NNP)
+  land/NN
+  gage/NN
+  ,/,
+  geography/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  ,/,
+  physics/NNS
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  Lizzie/NNP
+  of/IN
+  (GPE Hughes/NNP)
+  ,/,
+  (GPE English/NNP)
+  language/NN
+  ,/,
+  geography/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  ,/,
+  physics/NNS
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  Mary/NNP
+  of/IN
+  (GPE Thomas/NNP)
+  ,/,
+  (GPE English/NNP)
+  language/NN
+  ,/,
+  geography/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  ,/,
+  chemistry/NN
+  drawing/VBG
+  a/DT
+  (ORGANIZATION Matilda/NNP)
+  sees/VBZ
+  ,/,
+  (GPE English/JJ)
+  language/NN
+  ,/,
+  geography/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  maggie/NN
+  of/IN
+  (PERSON Lewis/NNP)
+  ,/,
+  (GPE English/NNP)
+  language/NN
+  ,/,
+  geometry/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geography/NN
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  (PERSON Sarah/NNP Thomas/NNP)
+  ,/,
+  (GPE English/NNP)
+  language/NN
+  ,/,
+  george/NN
+  happy/JJ
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  (ORGANIZATION Salome/NNP Lewis/NNP)
+  ,/,
+  ing/VBG
+  wish/JJ
+  language/NN
+  ,/,
+  geography/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  ,/,
+  physics/NNS
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  Lena/NNP
+  of/IN
+  (GPE Lloyd/NNP)
+  ,/,
+  (GPE English/NNP)
+  land/NN
+  gage/NN
+  ,/,
+  (GPE English/NNP)
+  history/NN
+  ,/,
+  geometry/NN
+  ,/,
+  aright/JJ
+  metic/NN
+  ,/,
+  algebra/NN
+  ,/,
+  geometry/NN
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  nine/CD
+  of/IN
+  (PERSON Lewis/NNP)
+  ,/,
+  (GPE English/NNP)
+  land/NN
+  gage/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  of/IN
+  of/IN
+  (PERSON James/NNP)
+  ,/,
+  ing/VBG
+  wish/JJ
+  language/NN
+  ,/,
+  geometry/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geography/NN
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  of/IN
+  rose/VBD
+  (PERSON Hall/NNP)
+  ,/,
+  (GPE English/NNP)
+  language/NN
+  ,/,
+  george/NN
+  happy/JJ
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  of/IN
+  of/IN
+  (GPE Morgans/NNP)
+  ,/,
+  ing/VBG
+  wish/JJ
+  language/NN
+  ,/,
+  geography/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  ,/,
+  physics/NNS
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  passive/NN
+  of/IN
+  (GPE Jones/NNP)
+  ,/,
+  (GPE English/NNP)
+  land/NN
+  gage/NN
+  ,/,
+  geography/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  physics/NNS
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  (GPE Rachel/NNP)
+  enwich/NN
+  ,/,
+  (GPE English/JJ)
+  language/NN
+  ,/,
+  ing/VBG
+  9/CD
+  wish/JJ
+  history/NN
+  ,/,
+  geography/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  ,/,
+  physics/NNS
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  label/JJ
+  Griffiths/NNP
+  ,/,
+  (GPE English/NNP)
+  land/NN
+  gage/NN
+  ,/,
+  geography/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  ,/,
+  (GPE French/JJ)
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  ./.
+  Third/JJ
+  Classes/NNPS
+  ./.
+  a/DT
+  Passes/VBZ
+  a/DT
+  (GPE Arianwen/NNP)
+  neffer/NN
+  ,/,
+  (GPE English/JJ)
+  language/NN
+  ,/,
+  geography/NN
+  ,/,
+  algebra/NN
+  ,/,
+  geometry/NN
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  of/IN
+  of/IN
+  (PERSON Mills/NNP)
+  ,/,
+  geography/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  ,/,
+  physics/NNS
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  a/DT
+  nine/CD
+  (PERSON Jones/NNP)
+  ,/,
+  (GPE English/NNP)
+  language/NN
+  ,/,
+  arithmetic/JJ
+  ,/,
+  algebra/JJ
+  ,/,
+  geometry/NN
+  ,/,
+  chemistry/NN
+  ,/,
+  drawing/VBG
+  ./.
+  Indicates/VBZ
+  distinction/NN
+  ./.
+  (ORGANIZATION Scholarship/NN Winners/NNPS)
+  ./.
+  the/DT
+  following/VBG
+  are/VBP
+  the/DT
+  winners/NNS
+  of/IN
+  the/DT
+  scholarships/NNS
+  offered/VBN
+  by/IN
+  the/DT
+  (ORGANIZATION Ferndale/NNP)
+  of/IN
+  operative/JJ
+  (ORGANIZATION Society/NNP)
+  ,/,
+  and/CC
+  have/VBP
+  each/DT
+  been/VBN
+  awarded/VBN
+  scholarships/NNS
+  of/IN
+  65/CD
+  each/DT
+  a/DT
+  and/CC
+  of/IN
+  first/JJ
+  year/NN
+  a/DT
+  (PERSON John/NNP Henry/NNP Lewis/NNP)
+  ,/,
+  of/IN
+  of/IN
+  of/IN
+  (GPE Monk/NNP)
+  ,/,
+  (PERSON Mary/NNP)
+  of/IN
+  (GPE Jacob/NNP)
+  ,/,
+  and/CC
+  margaret/NN
+  of/IN
+  sees/NNS
+  ./.
+  End/NN
+  of/IN
+  second/JJ
+  year/NN
+  a/DT
+  his/PRP$
+  (PERSON Jones/NNP)
+  ,/,
+  willie/NN
+  of/IN
+  (PERSON Howells/NNP)
+  ,/,
+  (PERSON Cassie/NNP Williams/NNP)
+  ,/,
+  hard/JJ
+  lotte/NN
+  (PERSON Jones/NNP)
+  ./.
+  End/NN
+  of/IN
+  third/JJ
+  year/NN
+  a/DT
+  van/NN
+  (PERSON Jones/NNP)
+  ,/,
+  (GPE Phoebe/NNP)
+  state/NN
+  ,/,
+  of/IN
+  of/IN
+  (GPE Jones/NNP)
+  ,/,
+  and/CC
+  (PERSON Salome/NNP Lewis/NNP)
+  ./.)
+(S
+  during/IN
+  Spring/NNP
+  Term/NNP
+  ,/,
+  1885/CD
+  ,/,
+  Courses/NNPS
+  in/IN
+  (GPE History/NNP)
+  ./.
+  (PERSON Astronomy/NNP)
+  ,/,
+  (GPE Botany/NNP)
+  ,/,
+  (GPE Philosophy/NNP)
+  ,/,
+  (GPE Chemistry/NNP)
+  ,/,
+  (ORGANIZATION Agricnltaral/NNP Chemistry/NNP)
+  ,/,
+  and/CC
+  (ORGANIZATION Electricity/NNP)
+  were/VBD
+  given/VBN
+  at/IN
+  why/WRB
+  ,/,
+  (PERSON Carnarvon/NNP)
+  ,/,
+  (GPE Llanrwst/NNP)
+  ,/,
+  of/IN
+  !/.
+  (PERSON Hngcfni/NNP)
+  ,/,
+  (GPE Penmaenmawr/NNP)
+  ,/,
+  I/PRP
+  '/''
+  V/NNP
+  -tiuog/NNP
+  ,/,
+  and/CC
+  ll/NN
+  of/IN
+  hers/NNS
+  ,/,
+  with/IN
+  11/CD
+  aggregate/NN
+  of/IN
+  446/CD
+  members/NNS
+  ,/,)
+(S
+  (GPE Teacher/NNP)
+  (/(
+  to/TO
+  the/DT
+  class/NN
+  in/IN
+  chemistry/NN
+  )/)
+  a/DT
+  that/WDT
+  does/VBZ
+  seawater/JJR
+  contain/VB
+  besides/IN
+  the/DT
+  sodium/NN
+  chloride/NN
+  that/IN
+  we/PRP
+  have/VBP
+  mentioned/VBN
+  a/DT
+  of/IN
+  (GPE Fish/NNP)
+  ,/,
+  air/NN
+  ./.
+  of/IN)
+(S
+  the/DT
+  senate/NN
+  has/VBZ
+  appointed/VBN
+  (PERSON Mr./NNP)
+  of/IN
+  of/IN
+  button/NN
+  (PERSON Chester/NNP)
+  ,/,
+  lecturer/NN
+  in/IN
+  agricultural/JJ
+  chemistry/NN
+  ac/NN
+  L/NNP
+  left/VBD
+  {/(
+  a/DT
+  (ORGANIZATION AOIIama/NN))
+(S
+  L/NNP
+  LANFAI1/NNP
+  a/DT
+  F/NNP
+  the/DT
+  result/NN
+  of/IN
+  the/DT
+  recent/JJ
+  Government/NNP
+  science/NN
+  Examination/NNP
+  in/IN
+  organic/JJ
+  and/CC
+  inorganic/JJ
+  chemistry/NN
+  was/VBD
+  made/VBN
+  known/VBN
+  on/IN
+  the/DT
+  19th/CD
+  instant/NN
+  ./.
+  the/DT
+  pupils/NNS
+  cf/VBP
+  Mi/NNP
+  ./.
+  (PERSON Robinson/NNP)
+  ./.
+  Bryn-y-Mor/NNP
+  School/NNP
+  ,/,
+  were/VBD
+  successful/JJ
+  in/IN
+  both/DT
+  subjects/NNS
+  ./.
+  In/IN
+  organic/JJ
+  chemistry/NN
+  ,/,
+  (PERSON W/NNP D/NNP Brooks/NNP)
+  ,/,
+  and/CC
+  in/IN
+  inorganic/JJ
+  chemistry/NN
+  of/IN
+  marston/NN
+  ,/,
+  R/NNP
+  chatham/NN
+  ,/,
+  of/IN
+  (GPE Senior/NNP)
+  ,/,
+  and/CC
+  of/IN
+  of/IN
+  (PERSON Roberts/NNP)
+  were/VBD
+  successful/JJ
+  ./.)
+(S
+  a/DT
+  j/JJ
+  DEATH/NNP
+  of/IN
+  (ORGANIZATION PROFESSOR/NNP)
+  VOEI.CKER/NNP
+  ,/,
+  Dr./NNP
+  Augustus/NNP
+  Voelcker/NNP
+  died/VBD
+  on/IN
+  Friday/NNP
+  at/IN
+  his/PRP$
+  residence/NN
+  ,/,
+  in/IN
+  Argyle-road/NNP
+  ,/,
+  kensington/NN
+  ,/,
+  in/IN
+  his/PRP$
+  sixty-second/JJ
+  year/NN
+  ./.
+  He/PRP
+  was/VBD
+  born/VBN
+  at/IN
+  Frankfort-on-/NNP
+  the-Maine/NN
+  ,/,
+  and/CC
+  received/VBD
+  his/PRP$
+  chief/JJ
+  education/NN
+  at/IN
+  time/NN
+  (ORGANIZATION University/NNP)
+  of/IN
+  In/IN
+  early/JJ
+  life/NN
+  he/PRP
+  cause/VBZ
+  to/TO
+  (GPE England/NNP)
+  ,/,
+  and/CC
+  he/PRP
+  successively/RB
+  held/VBD
+  the/DT
+  posts/NNS
+  of/IN
+  assistant/NN
+  of/IN
+  the/DT
+  late/JJ
+  Professor/NNP
+  (PERSON Johnston/NNP)
+  ,/,
+  at/IN
+  ,/,
+  dine/NN
+  burgh/NN
+  ,/,
+  Professor/NNP
+  of/IN
+  (GPE Chemistry/NNP)
+  in/IN
+  the/DT
+  oval/JJ
+  grim/JJ
+  cultural/JJ
+  College/NNP
+  at/IN
+  (ORGANIZATION Cirencester/NNP)
+  ,/,
+  and/CC
+  Prol'esso/NNP
+  of/IN
+  of/IN
+  (GPE Chemistry/NNP)
+  to/TO
+  the/DT
+  (ORGANIZATION Royal/NNP Agricultural/NNP)
+  society/NN
+  of/IN
+  0/CD
+  (GPE England/NNP)
+  ./.
+  He/PRP
+  was/VBD
+  well/RB
+  known/VBN
+  as/IN
+  the/DT
+  a/DT
+  full/JJ
+  ,/,
+  or/CC
+  of/IN
+  several/JJ
+  works/NNS
+  on/IN
+  theoretical/JJ
+  and/CC
+  agricultural/JJ
+  chemistry/NN
+  ,/,
+  such/JJ
+  as/IN
+  the/DT
+  (ORGANIZATION Chemistry/NNP)
+  of/IN
+  (GPE Food/NNP)
+  and/CC
+  of/IN
+  the/DT
+  (ORGANIZATION Chemistry/NNP)
+  of/IN
+  (GPE Manures/NNP)
+  ./.
+  of/IN)

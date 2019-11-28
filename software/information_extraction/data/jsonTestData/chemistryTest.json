@@ -1,0 +1,276 @@
+{
+    "response": {
+        "docs": [
+            {
+                "ancestor_UIDs": [
+                    "llgc-id:4122505",
+                    "llgc-id:4122756",
+                    "llgc-id:4122757"
+                ],
+                "ancestor_titles": [
+                    "Llanelly Star",
+                    "1914-01-17",
+                    "[1]"
+                ],
+                "article_word_count": 27,
+                "category": "News",
+                "collection_title": "Llanelly Star",
+                "date": "1914-01-17T00:00:00Z",
+                "date_day": 17,
+                "date_decade": 1910,
+                "date_month": 1,
+                "date_weekday": 6,
+                "date_year": 1914,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "",
+                "full_text": "I A CHEMISTRY DIPLOMA. Mr. Tom Williams, M.Sc., has just been awarded the Diploma in Chemistry and Engipeering, in the first division, at tJie Technische Hochschule, Karlsruke.",
+                "id": "4122756-modsarticle24-4122757-1",
+                "indexer_version": "348ba644f19dc32320a56c6bd5c6e27a",
+                "ingest_code": "ART24",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:4122757",
+                "phasecode": "apnjt003",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, West."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2015-06-17T14:22:49.361Z",
+                "title_en": "IA CHEMISTRY DIPLOMA. |",
+                "title_en_az": "IA CHEMISTRY DIPLOMA. |",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            },
+            {
+                "ancestor_UIDs": [
+                    "llgc-id:3496463",
+                    "llgc-id:3502520",
+                    "llgc-id:3502523"
+                ],
+                "ancestor_titles": [
+                    "South Wales Daily News",
+                    "1875-09-09",
+                    "3"
+                ],
+                "article_word_count": 26,
+                "category": "News",
+                "collection_title": "South Wales Daily News",
+                "date": "1875-09-09T00:00:00Z",
+                "date_day": 9,
+                "date_decade": 1870,
+                "date_month": 9,
+                "date_weekday": 4,
+                "date_year": 1875,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "",
+                "full_text": "LLANELLY. UNIVERSITY OF LONDON.\u2014At the recent Prel.ScL.M.B., examination of theT above University! -j ,\u201en\" J2S3TE \u00a3 \u00a3 SS&? gained honours in chemistry. gained honours in chemistry.",
+                "id": "3502520-modsarticle56-3502523-1",
+                "indexer_version": "348ba644f19dc32320a56c6bd5c6e27a",
+                "ingest_code": "ART56",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:3502523",
+                "phasecode": "apnan011",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, South.",
+                    "Wales, West.",
+                    "Wales, Mid."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2015-06-16T09:39:28.125Z",
+                "title_en": "LLANELLY.",
+                "title_en_az": "LLANELLY.",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            },
+            {
+                "_version_": 1619212277650554880,
+                "ancestor_UIDs": [
+                    "llgc-id:3143635",
+                    "llgc-id:3230107",
+                    "llgc-id:3230110"
+                ],
+                "ancestor_titles": [
+                    "Evening Express",
+                    "1891-06-17 Fourth Edition",
+                    "[3]"
+                ],
+                "article_word_count": 14,
+                "category": "News",
+                "collection_title": "Evening Express",
+                "date": "1891-06-17T00:00:00Z",
+                "date_day": 17,
+                "date_decade": 1890,
+                "date_month": 6,
+                "date_weekday": 3,
+                "date_year": 1891,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "Fourth Edition",
+                "full_text": "Additional Arrivals this Morning. Glad Tidings, Bruree, Field Azure, Dover, Spotted Beauty, and Chemistry.",
+                "id": "3230107-modsarticle61-3230110-1",
+                "indexer_version": "3a8e81fa46149970e377e7b479c4cdc8",
+                "ingest_code": "ART61",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:3230110",
+                "phasecode": "apnag003",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, South."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2018-12-07T16:46:02.005Z",
+                "title_en": "Additional Arrivals this Morning.",
+                "title_en_az": "Additional Arrivals this Morning.",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            },
+			{
+                "ancestor_UIDs": [
+                    "llgc-id:4122505",
+                    "llgc-id:4122756",
+                    "llgc-id:4122757"
+                ],
+                "ancestor_titles": [
+                    "Llanelly Star",
+                    "1914-01-17",
+                    "[1]"
+                ],
+                "article_word_count": 27,
+                "category": "News",
+                "collection_title": "Llanelly Star",
+                "date": "1914-01-17T00:00:00Z",
+                "date_day": 17,
+                "date_decade": 1910,
+                "date_month": 1,
+                "date_weekday": 6,
+                "date_year": 1914,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "",
+                "full_text": "I A CHEMISTRY DIPLOMA. Mr. Tom Williams, M.Sc., has just been awarded the Diploma in Chemistry and Engipeering, in the first division, at tJie Technische Hochschule, Karlsruke.",
+                "id": "4122756-modsarticle24-4122757-1",
+                "indexer_version": "348ba644f19dc32320a56c6bd5c6e27a",
+                "ingest_code": "ART24",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:4122757",
+                "phasecode": "apnjt003",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, West."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2015-06-17T14:22:49.361Z",
+                "title_en": "IA CHEMISTRY DIPLOMA. |",
+                "title_en_az": "IA CHEMISTRY DIPLOMA. |",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            },
+            {
+                "ancestor_UIDs": [
+                    "llgc-id:3496463",
+                    "llgc-id:3502520",
+                    "llgc-id:3502523"
+                ],
+                "ancestor_titles": [
+                    "South Wales Daily News",
+                    "1875-09-09",
+                    "3"
+                ],
+                "article_word_count": 26,
+                "category": "News",
+                "collection_title": "South Wales Daily News",
+                "date": "1875-09-09T00:00:00Z",
+                "date_day": 9,
+                "date_decade": 1870,
+                "date_month": 9,
+                "date_weekday": 4,
+                "date_year": 1875,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "",
+                "full_text": "LLANELLY. UNIVERSITY OF LONDON.\u2014At the recent Prel.ScL.M.B., examination of theT above University! -j ,\u201en\" J2S3TE \u00a3 \u00a3 SS&? gained honours in chemistry. gained honours in chemistry.",
+                "id": "3502520-modsarticle56-3502523-1",
+                "indexer_version": "348ba644f19dc32320a56c6bd5c6e27a",
+                "ingest_code": "ART56",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:3502523",
+                "phasecode": "apnan011",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, South.",
+                    "Wales, West.",
+                    "Wales, Mid."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2015-06-16T09:39:28.125Z",
+                "title_en": "LLANELLY.",
+                "title_en_az": "LLANELLY.",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            },
+            {
+                "_version_": 1619212277650554880,
+                "ancestor_UIDs": [
+                    "llgc-id:3143635",
+                    "llgc-id:3230107",
+                    "llgc-id:3230110"
+                ],
+                "ancestor_titles": [
+                    "Evening Express",
+                    "1891-06-17 Fourth Edition",
+                    "[3]"
+                ],
+                "article_word_count": 14,
+                "category": "News",
+                "collection_title": "Evening Express",
+                "date": "1891-06-17T00:00:00Z",
+                "date_day": 17,
+                "date_decade": 1890,
+                "date_month": 6,
+                "date_weekday": 3,
+                "date_year": 1891,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "Fourth Edition",
+                "full_text": "Additional Arrivals this Morning. Glad Tidings, Bruree, Field Azure, Dover, Spotted Beauty, and Chemistry.",
+                "id": "3230107-modsarticle61-3230110-1",
+                "indexer_version": "3a8e81fa46149970e377e7b479c4cdc8",
+                "ingest_code": "ART61",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:3230110",
+                "phasecode": "apnag003",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, South."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2018-12-07T16:46:02.005Z",
+                "title_en": "Additional Arrivals this Morning.",
+                "title_en_az": "Additional Arrivals this Morning.",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            }
+			]
+		}
+	}

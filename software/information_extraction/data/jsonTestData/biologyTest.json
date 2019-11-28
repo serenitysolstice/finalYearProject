@@ -1,0 +1,142 @@
+{
+    "response": {
+        "docs": [
+            {
+                "ancestor_UIDs": [
+                    "llgc-id:3380665",
+                    "llgc-id:3425722",
+                    "llgc-id:3425726"
+                ],
+                "ancestor_titles": [
+                    "The Cardiff Times",
+                    "1898-07-09",
+                    "4"
+                ],
+                "article_word_count": 24,
+                "category": "News",
+                "collection_title": "The Cardiff Times",
+                "date": "1898-07-09T00:00:00Z",
+                "date_day": 9,
+                "date_decade": 1890,
+                "date_month": 7,
+                "date_weekday": 6,
+                "date_year": 1898,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "",
+                "full_text": "M Reginald W Phillips, M.A., professor of biology at the University College pf North Wales, has just taken his D.Sc. at the London, University.",
+                "id": "3425722-modsarticle87-3425726-1",
+                "indexer_version": "348ba644f19dc32320a56c6bd5c6e27a",
+                "ingest_code": "ART87",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:3425726",
+                "phasecode": "apnae041",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, South.",
+                    "Wales, Mid.",
+                    "Wales, West.",
+                    "Welsh Borders (England & Wales)"
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2015-06-15T12:34:18.929Z",
+                "title_en": "[No title]",
+                "title_en_az": "[No title]",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            },
+            {
+                "ancestor_UIDs": [
+                    "llgc-id:3712384",
+                    "llgc-id:3715259",
+                    "llgc-id:3715266"
+                ],
+                "ancestor_titles": [
+                    "Towyn-on-Sea and Merioneth County Times",
+                    "1903-09-10",
+                    "[7]"
+                ],
+                "article_word_count": 27,
+                "category": "News",
+                "collection_title": "Towyn-on-Sea and Merioneth County Times",
+                "date": "1903-09-10T00:00:00Z",
+                "date_day": 10,
+                "date_decade": 1900,
+                "date_month": 9,
+                "date_weekday": 4,
+                "date_year": 1903,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "",
+                "full_text": "\u00ab- Amongst the names of successful candidates for South Kensington scholarships is that of Ellis L. Jones, Blaenau Festiniog, who has obtained a free studentship for biology.",
+                "id": "3715259-modsarticle24-3715266-1",
+                "indexer_version": "348ba644f19dc32320a56c6bd5c6e27a",
+                "ingest_code": "ART25",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:3715266",
+                "phasecode": "apndj003",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, Mid."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2015-06-17T05:03:49.549Z",
+                "title_en": "[No title]",
+                "title_en_az": "[No title]",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            },
+            {
+                "_version_": 1619314590184636416,
+                "ancestor_UIDs": [
+                    "llgc-id:3143635",
+                    "llgc-id:3484487",
+                    "llgc-id:3484490"
+                ],
+                "ancestor_titles": [
+                    "Evening Express",
+                    "1902-02-26 Extra Special Edition",
+                    "[3]"
+                ],
+                "article_word_count": 24,
+                "category": "News",
+                "collection_title": "Evening Express",
+                "date": "1902-02-26T00:00:00Z",
+                "date_day": 26,
+                "date_decade": 1900,
+                "date_month": 2,
+                "date_weekday": 3,
+                "date_year": 1902,
+                "doc_type": "Newspapers-article",
+                "edition_statement": "Extra Special Edition",
+                "full_text": "PROBABLE STARTERS FOR TO-DAY'S RACES. Kingston Hurdle.\u2014All ready (except Bonnie Dundee). Hounslaw Seling.-All ready. Surrey Plate.\u2014Glen Choran, Biology, Min, Hill of Bree, and Petriolo.",
+                "id": "3484487-modsarticle81-3484490-1",
+                "indexer_version": "3a8e81fa46149970e377e7b479c4cdc8",
+                "ingest_code": "ART81",
+                "lang": "eng",
+                "order": 1,
+                "parent_UID": "llgc-id:3484490",
+                "phasecode": "apnag110",
+                "provider": "WlAbNL",
+                "region": [
+                    "Wales, South."
+                ],
+                "rights": [
+                    "UNKNOWN"
+                ],
+                "timestamp": "2018-12-08T19:52:14.84Z",
+                "title_en": "PROBABLE STARTERS FOR TO-DAY'S RACES.",
+                "title_en_az": "PROBABLE STARTERS FOR TO-DAY'S RACES.",
+                "type": "newspapers",
+                "useguidelines_cy": "Nid yw statws neu berchnogaeth hawlfraint yr adnodd hwn yn hysbys.",
+                "useguidelines_en": "The copyright status or ownership of this resource is unknown."
+            }
+			]
+		}
+	}
